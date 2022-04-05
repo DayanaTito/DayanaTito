@@ -3,7 +3,7 @@
 
 - 💻: Desenvolvedora Java Jr. em Construção - Generation Brasil
 - 😄 Pronouns: ela/dela
- 
+ <img align="right" width="335px" src="https://acegif.com/wp-content/uploads/cat-typing-12.gif">
  <div>
   <a href="https://github.com/DayanaTito">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=DayanaTito&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
