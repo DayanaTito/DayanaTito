@@ -1,7 +1,7 @@
 ### Olá! Eu sou a Dayana Tito 👋
 
 
-- 💻: Desenvolvedora Java Jr. em Construção - Generation Brasil
+- 💻: Desenvolvedora Full Stack Java Jr. em Construção - Generation Brasil
 - 😄 Pronouns: ela/dela
  <img align="right" width="335px" src="https://acegif.com/wp-content/uploads/cat-typing-12.gif">
  <div>
