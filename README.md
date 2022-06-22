@@ -1,7 +1,7 @@
 ### Olá! Eu sou a Dayana Tito 👋
 
 
-- 💻: Desenvolvedora Full Stack Java Jr. em Construção - Generation Brasil
+- 💻: Desenvolvedora Full Stack Java Jr - Generation Brasil
 - 😄 Pronouns: ela/dela
 
 ##
