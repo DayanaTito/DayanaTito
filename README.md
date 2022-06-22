@@ -5,7 +5,7 @@
 - 😄 Pronouns: ela/dela
 
 ##
- <div display= block align="center"><img width="200px" src="https://acegif.com/wp-content/uploads/cat-typing-12.gif"></div>
+ <div display= block align="center"><img width="100px" src="https://acegif.com/wp-content/uploads/cat-typing-12.gif"></div>
  
  <div align="center" >
   <a href="https://github.com/DayanaTito">
