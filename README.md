@@ -2,7 +2,7 @@
 
 
 - 💻: Desenvolvedora Full Stack Java Jr - Generation Brasil
-- 😄 Pronouns: ela/dela
+- 😄 Pronouns: Ela/Dela
 
 ##
  
