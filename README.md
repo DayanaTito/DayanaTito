@@ -45,6 +45,23 @@
   
 </div>
 
+<details align="left" open/>
+   <summary><b>Experience</b></summary>
+   <br/>
+
+[<img align="left" height="94px" width="94px" alt="Linx" target="_blank" src="https://i.imgur.com/YvDgmTy.png"/>](https://www.linx.com.br/)
+Technical Support Analyst \
+Linx • Full-time \
+Languages & Technologies: LIQUID, HTML, CSS, SQL, SOLR, KIBANA \
+<br/>
+
+[<img align="left" height="94px" width="94px" alt="Generation" target="_blank" src="https://i.imgur.com/hCMyZKz.png"/>](https://brazil.generation.org/)
+Full Stack Developer \
+Generation • BootCamp \
+Languages & Technologies: REACT, JAVA, SPRING, HTML, CSS, GIT, SQL  \
+Featured Projects: Discoleta & Magister
+</details>
+
  ##
  
  ![Snake animation](https://github.com/DayanaTito/DayanaTito/blob/output/github-contribution-grid-snake.svg)
