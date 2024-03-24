@@ -62,6 +62,4 @@ Languages & Technologies: REACT, JAVA, SPRING, HTML, CSS, GIT, SQL  \
 Featured Projects: Discoleta & Magister
 </details>
 
- ##
- 
- ![Snake animation](https://github.com/DayanaTito/DayanaTito/blob/output/github-contribution-grid-snake.svg)
+<!-- ![Snake animation](https://github.com/DayanaTito/DayanaTito/blob/output/github-contribution-grid-snake.svg)-->
